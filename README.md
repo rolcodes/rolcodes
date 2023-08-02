@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **jirolds08@gmail.com**
 
-- ⚡ Fun fact **I manage a business while studying computer science.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jirol delos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jirol delos santos" height="30" width="40" /></a>
