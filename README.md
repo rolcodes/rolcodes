@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Jirol Delos Santos</h1>
+![image](https://github.com/jirolds/jirolds/assets/132939427/88b4d07a-0203-4e9c-bc56-1a93805cd4dd)<h1 align="center">Hi, I'm Jirol Delos Santos</h1>
 <h3 align="center">Flutter | Node.js | Tensorflow</h3>
+
+<img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirolds&label=Profile%20views&color=0e75b6&style=flat" alt="jirolds" /> </p>
 
