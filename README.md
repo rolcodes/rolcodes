@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">Flutter | Java | SQA </h3>
+<h1 align="center">Hi, I'm Jirol Delos Santos</h1>
+<h3 align="center">Flutter | Firebase | Figma </h3>
 <!--
 **jirolds/jirolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
