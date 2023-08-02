@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jirol delos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jirol delos santos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jiroldelossantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiroldelossantos" height="30" width="40" /></a>
 <a href="https://instagram.com/jirol.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jirol.codes" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jirol delos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jirol delos santos" height="30" width="40" /></a>
 </p>
@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirolds&show_icons=true&locale=en" alt="jirolds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolds&" alt="jirolds" /></p>
+
+
