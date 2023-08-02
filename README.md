@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Jirol Delos Santos</h1>
 <h3 align="center">Flutter | Node.js | Tensorflow</h3>
 
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirolds&label=Profile%20views&color=0e75b6&style=flat" alt="jirolds" /> </p>
 
 - 🔭 I’m currently working on **E-commerce App with Firebase**
