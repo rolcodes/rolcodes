@@ -1,4 +1,4 @@
-![image](https://github.com/jirolds/jirolds/assets/132939427/88b4d07a-0203-4e9c-bc56-1a93805cd4dd)<h1 align="center">Hi, I'm Jirol Delos Santos</h1>
+<h1 align="center">Hi, I'm Jirol Delos Santos</h1>
 <h3 align="center">Flutter | Node.js | Tensorflow</h3>
 
 <img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
