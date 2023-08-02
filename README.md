@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart & Node.js**
 
-- 💬 Ask me about **Flutter UI**
-
 - 📫 How to reach me **jirolds08@gmail.com**
 
 - ⚡ Fun fact **I manage a business while studying computer science.**
