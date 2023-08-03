@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jirol Delos Santos</h1>
-<h3 align="center">Flutter | Node.js | Tensorflow</h3>
+<h3 align="center">Flutter | Firebase | Node.js | Tensorflow</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
