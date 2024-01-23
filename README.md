@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Developer
 -----------------
 
-I started learning to code during my senior year of high school, six years ago. I began with HTML, but I now have a strong interest in developing mobile apps.
+I started learning to code during my senior year of high school, six years ago. I began with HTML, but now I have a strong interest in developing mobile apps.
 
 * 🌍  I'm based in Manila
 * ✉️  You can contact me at [jdbusem01@gmail.com](mailto:jdbusem01@gmail.com)
