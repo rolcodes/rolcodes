@@ -12,7 +12,9 @@ I started learning to code during my senior year of high school, six years ago. 
 
 <a href="https://www.github.com/rolcodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rolcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirolds&label=Profile%20views&color=0e75b6&style=flat" alt="jirolds" /> </p>
+
 ### Skills
 
 
