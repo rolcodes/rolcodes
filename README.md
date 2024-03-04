@@ -6,7 +6,7 @@ Flutter Developer
 
 I started learning to code during my senior year of high school, six years ago. I began with HTML, but now I have a strong interest in developing mobile apps.
 
-* 🌍  I'm based in Manila
+* 🌍  I'm based in Paranaque
 * ✉️  You can contact me at [jdbusem01@gmail.com](mailto:jdbusem01@gmail.com)
 * 🧠  I'm learning Flutter, Dart, Firebase, Nodejs, TensorFlow & Python
 
