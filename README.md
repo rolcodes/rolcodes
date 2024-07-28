@@ -13,9 +13,6 @@ I'm Jirol Delos Santos, a passionate Flutter mobile developer with a knack for c
 * 🤝  I'm open to collaborating on Startup Projects, especially on E-Commerce Apps
 * ⚡  I do freelance mobile app development. Contact me for more info.
 
-<a href="https://www.github.com/rolcodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rolcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
