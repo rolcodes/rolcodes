@@ -1,21 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirol Delos Santos
-==========================================================================================================================================
-
-Flutter Mobile Developer
-------------------------
-
-I'm Jirol Delos Santos, a passionate Flutter mobile developer with a knack for creating beautiful and efficient mobile applications. With a solid background in Dart and a keen eye for UI/UX design, I build apps that not only function seamlessly but also provide an engaging user experience.
-
-* 🌍  I'm based in Makati, PH
-* ✉️   You can contact me at [09917928890](mailto:09917928890)
-* 🚀  I'm currently working on [Booking Appointment App](http://github.com/rolcodes/jbl_appointment_app)
-
-### Skills
-
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+## Hi, I'm Jirol Delos Santos
 
 
 
+## Flutter Mobile Developer | Software Engineer
+
+I’m a mobile app developer passionate about creating seamless experiences using Flutter and Dart, with Firebase as my backend of choice. I specialize in Provider state management and RESTful APIs for dynamic, responsive applications. For backend development, I work with Laravel and Node.js, particularly in building robust admin panels. I’m also experienced in Google Play Console deployment, taking projects from development to live release. I use Git and GitHub to keep everything organized and collaborative.
+
+## Skills & Technologies
+
+flutter,dart,firebase,supabase,laravel,php,mysql,nodejs,express,mongodb,vscode,androidstudio,figma,github,git,postman
+
+## Certifications
+
+- [Flutter & Dart - The Complete Guide 2023](https://drive.google.com/file/d/19BpaiWWE-yqk22lgj8bA-1_MP519-e2n/view?usp=sharing) - Academind, 2023
+- [The Complete Flutter Development Bootcamp with Dart](https://drive.google.com/file/d/18M07I7fI4qQ9-iBjpPZR56FNr3fVWNf0/view?usp=sharing) - Google Flutter Team, 2024
+- [Flutter & Dart - SOLID Principles and Top Design Patterns](https://drive.google.com/file/d/1TKU64R3KW8GCMsMwuOh0YmXy8BfeMHsQ/view?usp=sharing) - Piotr Paweska, 2024
