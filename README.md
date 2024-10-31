@@ -1,4 +1,4 @@
-![](https://drive.google.com/uc?id=<1EcNPO8M8F2RFNeCAcCfcIvapTO7bChwK>)
+![Black Modern Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/8c2aa5b1-3d88-4ac3-a240-832b9c7d3575)
 
 ## Hi, I'm Jirol Delos Santos
 
