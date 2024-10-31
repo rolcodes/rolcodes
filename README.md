@@ -1,4 +1,4 @@
-![Uploading Black Modern Personal LinkedIn Banner (2).png…]()
+https://drive.google.com/file/d/1EcNPO8M8F2RFNeCAcCfcIvapTO7bChwK/view?usp=sharing
 
 ## Hi, I'm Jirol Delos Santos
 
