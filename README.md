@@ -1,4 +1,4 @@
-![Black Modern Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/7276e0a5-2f06-4aee-b2f3-3273b6900865)
+![Uploading Black Modern Personal LinkedIn Banner (2).png…]()
 
 ## Hi, I'm Jirol Delos Santos
 
