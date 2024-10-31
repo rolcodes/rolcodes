@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1EcNPO8M8F2RFNeCAcCfcIvapTO7bChwK/view?usp=sharing
+![Example Image](https://drive.google.com/uc?id=<1EcNPO8M8F2RFNeCAcCfcIvapTO7bChwK>)
 
 ## Hi, I'm Jirol Delos Santos
 
