@@ -6,6 +6,12 @@ I’m a mobile app developer passionate about creating seamless experiences usin
 
 ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 ## Skills & Technologies
 
