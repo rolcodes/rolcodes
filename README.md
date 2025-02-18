@@ -4,7 +4,7 @@
 
 ### Flutter Mobile Developer | Software Engineer
 
-I’m a mobile app developer passionate about creating seamless experiences using Flutter and Dart, with Firebase as my backend of choice. I specialize in Provider state management and RESTful APIs for dynamic, responsive applications. For backend development, I work with Laravel and Node.js, particularly in building robust admin panels. I’m also experienced in Google Play Console deployment, taking projects from development to live release. I use Git and GitHub to keep everything organized and collaborative.
+I’m a Flutter developer with a year of experience, building and launching two apps on both Google Play and the App Store. I focus on making efficient and scalable apps using Flutter and Dart, with Provider for smooth state management. I’ve worked with REST APIs, Firebase, and Supabase, plus some full-stack tools like Laravel, MySQL, and Node.js. I also handle app deployment and use Git for version control. Right now, I’m working on an HR & Payroll System and other side projects to support my mom's hospital bills. Always learning and improving. Open to new opportunities. Let’s connect!
 
 
 ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
