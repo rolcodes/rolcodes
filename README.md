@@ -2,9 +2,11 @@
 
 ## Hi, I'm Jirol Delos Santos
 
-### Flutter Mobile Developer | Software Engineer
+### Senior Flutter Team Lead • Mobile Developer • Software Engineer
 
-I’m a Flutter developer with a year of experience, building and launching two apps on both Google Play and the App Store. I focus on making efficient and scalable apps using Flutter and Dart, with Provider for smooth state management. I’ve worked with REST APIs, Firebase, and Supabase, plus some full-stack tools like Laravel, MySQL, and Node.js. I also handle app deployment and use Git for version control. Right now, I’m working on an HR & Payroll System and other side projects to support my mom's hospital bills. Always learning and improving. Open to new opportunities. Let’s connect!
+Senior Flutter Team Lead with 1 year of experience in a Makati-based startup, specializing in cross-platform mobile app development. Skilled in Flutter & Dart using MVC architecture with Provider and Riverpod for state management. Experienced with Firebase and Supabase for BaaS, Laravel and Node.js for custom backend development, and integration of RESTful APIs. Proficient in MySQL and MongoDB for data management. Adept in UI/UX design with Figma, version control using Git, and app deployment via App Store Connect, TestFlight, and Play Console. I’ve successfully deployed 2 apps to both the Play Store and App Store. Expert in building role-based ecommerce apps, booking systems, and HR & payroll solutions, with payment gateway integration (PayMongo, Stripe).
+
+As a Senior Flutter Team Lead, I’m responsible for overseeing app architecture, mentoring junior developers, reviewing code, and ensuring best practices are followed throughout the development lifecycle. Currently working on three projects: maintaining the old version of our HR & Payroll System, developing a revamped version of the same system, and building a personal project (ecommerce app) to support small online businesses in our subdivision in Calamba, Laguna. These projects also serve as a means to support my family in paying off debt from a failed business venture. I’m continuously learning and improving by taking mobile development courses and staying updated with the latest tech—and I’m open to new opportunities.
 
 
 ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
