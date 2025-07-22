@@ -10,7 +10,7 @@ I’ve published two apps on both the App Store and Play Store, handling deploym
 
 As a team lead, I oversee architecture decisions, review code, mentor junior devs, and help maintain a clean and efficient development process. Right now, I’m managing three active projects: maintaining the older version of our HR & Payroll system, leading a rebuild of the same system, and working on a personal ecommerce app to help small businesses in my community in Calamba. That personal project also helps support my family as we recover from financial setbacks from a failed business.
 
-I’m always learning, taking online courses, exploring new tools, and staying updated with what’s new in mobile development. I’m also open to new opportunities where I can keep growing and contributing as both a developer and a team lead.
+I’m always learning, taking online courses, exploring new tools, and staying updated with what’s new in mobile development and AI. I’m also open to new opportunities where I can keep growing and contributing as both a developer and a team lead.
 
 
 ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
