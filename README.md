@@ -1,16 +1,19 @@
-![Black Modern Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/8c2aa5b1-3d88-4ac3-a240-832b9c7d3575)
 
 ## Hi, I'm Jirol Delos Santos
 
-### Senior Flutter Team Lead • Mobile Developer • Software Engineer
+### Senior Flutter Developer • Mobile Developer • Software Engineer
 
-I’m a Senior Flutter Team Lead based in Makati, with 1.5 years of experience leading mobile development at a startup. I build cross-platform apps using Flutter and Dart, following the MVC pattern and managing state with Provider and Riverpod. I’ve worked with Firebase and Supabase for backend services, and I have basic experience with Laravel, Node.js, and MongoDB for more custom solutions.
+I’m a Senior Flutter Mobile Developer with over 2 years of production experience building and maintaining cross-platform mobile applications for iOS and Android in a startup environment based in Ayala, Makati, Philippines.
 
-I’ve published two apps on both the App Store and Play Store, handling deployment through App Store Connect, TestFlight, and the Play Console. I use Git for version control and Figma for designing and collaborating on UI/UX. My projects often involve REST API integration, MySQL databases, and building role-based systems for ecommerce, booking platforms, and HR/payroll tools, including payment gateways like PayMongo and Stripe.
+My work focuses on designing scalable Flutter applications using Dart, MVC and MVVM architectures, and state management with Provider and Riverpod. I handle complex app flows involving RESTful API integration, MySQL-backed services, role-based access control, and secure payment systems using HitPay, PayMongo, and Stripe. I regularly use Firebase and Supabase for backend services, authentication, and real-time features.
 
-As a team lead, I oversee architecture decisions, review code, mentor junior devs, and help maintain a clean and efficient development process. Right now, I’m managing three active projects: maintaining the older version of our HR & Payroll system, leading a rebuild of the same system, and working on a personal ecommerce app to help small businesses in my community in Calamba. That personal project also helps support my family as we recover from financial setbacks from a failed business.
+I have owned the end-to-end mobile engineering lifecycle of three production applications published on both the Apple App Store and Google Play. This includes environment setup, build configuration, versioning, internal and external testing via TestFlight, Play Console open testing, production releases, and post-deployment maintenance. I take responsibility for production stability, issue resolution, and iterative improvements aligned with product and business goals.
 
-I’m always learning, taking online courses, exploring new tools, and staying updated with what’s new in mobile development and AI. I’m also open to new opportunities where I can keep growing and contributing as both a developer and a team lead.
+As a senior engineer, I contribute to technical architecture decisions, perform code reviews, mentor junior developers and interns, and help define coding standards that support long-term maintainability and performance. I collaborate with designers & stakeholders using Figma and work closely with product and backend teams to ensure reliable and well-structured mobile solutions.
+
+As AI becomes a core part of modern software products, I have started integrating AI-driven features into mobile applications to improve automation, usability, and overall product value.
+
+I’m looking to grow into a Lead Mobile Developer role, where I can take greater ownership of technical direction, support team development, and contribute to building reliable products for global users. I’m open to remote-first and international opportunities with engineering-focused teams.
 
 
 ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
