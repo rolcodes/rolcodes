@@ -1,60 +1,49 @@
+## Hi, I'm Jirol Delos Santos 👋
 
-## Hi, I'm Jirol Delos Santos
+### Lead Mobile Engineer • Backend Engineer • AI Full-Stack Developer
 
-### Senior Flutter Developer • Mobile Developer • Software Engineer
+I'm a Lead Mobile Engineer and backend developer with **3 years of production experience** building cross-platform apps for iOS and Android and the APIs behind them, based in Makati, Philippines. I lead mobile development at **JAF Digital**, where I own the architecture, delivery and release of the **Timora** workforce and HRIS platform, from the Flutter apps through to the Laravel APIs they run on.
 
-I’m a Senior Flutter Mobile Developer with over 2 years of production experience building and maintaining cross-platform mobile applications for iOS and Android in a startup environment based in Ayala, Makati, Philippines.
+**What I do**
 
-My work focuses on designing scalable Flutter applications using Dart, MVC and MVVM architectures, and state management with Provider and Riverpod. I handle complex app flows involving RESTful API integration, MySQL-backed services, role-based access control, and secure payment systems using HitPay, PayMongo, and Stripe. I regularly use Firebase and Supabase for backend services, authentication, and real-time features.
+- **Lead mobile engineering:** set technical direction, define architecture and coding standards, review code and mentor developers and interns.
+- **Ship production apps:** build configuration, flavors, versioning, TestFlight and Play Console testing tracks, store releases and post-release support.
+- **Build the backend:** design, build and test REST APIs and services with Laravel, PHP, Node.js and Python, backed by MySQL, PostgreSQL, Firebase and Supabase, and deployed on AWS. This covers authentication, role-based permissions, multi-tenant data and validation.
+- **Build across the stack:** pair the apps and APIs with web front ends in React and Next.js, so I can deliver a feature end to end.
+- **Engineer with AI:** ship AI features in products (assistant chat, voice activation, AI insights) and build AI-assisted engineering workflows with Claude Code, Codex and Cursor that keep a team's standards consistent across tools.
 
-I have owned the end-to-end mobile engineering lifecycle of three production applications published on both the Apple App Store and Google Play. This includes environment setup, build configuration, versioning, internal and external testing via TestFlight, Play Console open testing, production releases, and post-deployment maintenance. I take responsibility for production stability, issue resolution, and iterative improvements aligned with product and business goals.
+I care about offline-first reliability, clean feature-first architecture (Clean Architecture, SOLID, repository pattern, dependency injection) and security in apps that handle attendance, payroll and personal data.
 
-As a senior engineer, I contribute to technical architecture decisions, perform code reviews, mentor junior developers and interns, and help define coding standards that support long-term maintainability and performance. I collaborate with designers & stakeholders using Figma and work closely with product and backend teams to ensure reliable and well-structured mobile solutions.
+I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-first and international engineering teams.
 
-As AI becomes a core part of modern software products, I have started integrating AI-driven features into mobile applications to improve automation, usability, and overall product value.
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor" />
+</p>
 
-I’m looking to grow into a Lead Mobile Developer role, where I can take greater ownership of technical direction, support team development, and contribute to building reliable products for global users. I’m open to remote-first and international opportunities with engineering-focused teams.
-
-
-![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-
-## Skills & Technologies
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-## Certifications
+## 📜 Certifications
 
 - [Flutter & Dart - The Complete Guide 2023](https://drive.google.com/file/d/19BpaiWWE-yqk22lgj8bA-1_MP519-e2n/view?usp=sharing) - Academind, 2023
 - [The Complete Flutter Development Bootcamp with Dart](https://drive.google.com/file/d/18M07I7fI4qQ9-iBjpPZR56FNr3fVWNf0/view?usp=sharing) - Google Flutter Team, 2024
 - [Flutter & Dart - SOLID Principles and Top Design Patterns](https://drive.google.com/file/d/1TKU64R3KW8GCMsMwuOh0YmXy8BfeMHsQ/view?usp=sharing) - Piotr Paweska, 2024
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiroldelossantos)
+[![Website](https://img.shields.io/badge/rol.codes-000000?logo=googlechrome&logoColor=white)](https://rol.codes)
