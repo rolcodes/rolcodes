@@ -37,6 +37,44 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
   <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" title="Flutter" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="Dart" title="Dart" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="32" alt="Swift" title="Swift" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="Kotlin" title="Kotlin" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="32" alt="Next.js" title="Next.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" title="Laravel" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" title="PHP" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="32" alt="Firebase" title="Firebase" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase" title="Supabase" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" title="AWS" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-svg/icons/claude-color.svg" height="32" alt="Claude Code" title="Claude Code" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-svg/icons/codex-color.svg" height="32" alt="Codex" title="Codex" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/cursor/000000/ffffff" height="32" alt="Cursor" title="Cursor" />
+</p>
+
 ## 📜 Certifications
 
 - [Flutter & Dart - The Complete Guide 2023](https://drive.google.com/file/d/19BpaiWWE-yqk22lgj8bA-1_MP519-e2n/view?usp=sharing) - Academind, 2023
