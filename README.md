@@ -2,7 +2,7 @@
 
 ### Lead Mobile Engineer • Backend Engineer • AI Full-Stack Developer
 
-I'm a Lead Mobile Engineer and backend developer with **3 years of production experience** building cross-platform apps for iOS and Android and the APIs behind them, based in Makati, Philippines. I've shipped **3 production apps on both the App Store and Google Play** across **25+ versioned releases**. I lead mobile development at **JAF Digital**, where I own the architecture, delivery and release of the **Timora** workforce and HRIS platform, from the Flutter apps through to the Laravel APIs they run on.
+I'm a Lead Mobile Engineer and backend developer with **3 years of production experience** building cross-platform apps for iOS and Android and the APIs behind them, based in Makati, Philippines. I've shipped **3 production apps on both the App Store and Google Play** across **25+ versioned releases**, including an HRIS and payroll app with **~5,000 users** and **~2,000 daily active users**. I lead mobile development at **JAF Digital**, where I own the architecture, delivery and release of the **Timora** workforce and HRIS platform, from the Flutter apps through to the Laravel APIs they run on.
 
 **What I do**
 
@@ -20,7 +20,7 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
 
 | App | What it is | Get it |
 | --- | --- | --- |
-| **Timora – HR & Payroll System** | HR, attendance and payroll app for SMEs: offline-first GPS and photo attendance, leave and request approvals, payslips, an HRIS module and the *Timi* AI assistant. | [App Store](https://apps.apple.com/ph/app/timora-hr-payroll-system/id6791944409) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timorasme) |
+| **Timora HRIS & Payroll System**<br>~5,000 users · ~2,000 daily | HR, attendance and payroll app that employees use every day for timekeeping and filing overtime, official business, leave and other requests. Includes offline-first GPS and photo attendance, approvals, payslips, an HRIS module and the *Timi* AI assistant. | [App Store](https://apps.apple.com/ph/app/timora-hr-payroll-system/id6791944409) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timorasme) |
 | **Timora – Automated Payroll App** | Workforce and payroll app for field teams: geofenced auto clock-in/out, biometric login, mock-location detection and forced updates. | [App Store](https://apps.apple.com/ph/app/timora-automated-payroll-app/id6749219661) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timora) |
 | **OneJAF – HR & Payroll** | Employee HR and payroll self-service app. | [App Store](https://apps.apple.com/ph/app/onejaf-hr-payroll/id6742869605) · [Google Play](https://play.google.com/store/apps/details?id=com.jirolds.onejaf) |
 
