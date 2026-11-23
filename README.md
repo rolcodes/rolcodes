@@ -1,4 +1,4 @@
-## Hi, I'm Jirol Delos Santos 👋
+## Hi, I'm Jirol Delos Santos
 
 ### Lead Mobile Engineer • Backend Engineer • AI Full-Stack Developer
 
