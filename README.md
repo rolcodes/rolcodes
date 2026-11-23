@@ -70,7 +70,7 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
   *Strategic Thinking & Planning for Supervisors and Managers: From Day-to-Day Execution to Future-Ready Leadership*
 - [Flutter & Dart - SOLID Principles and Top Design Patterns](https://drive.google.com/file/d/1TKU64R3KW8GCMsMwuOh0YmXy8BfeMHsQ/view?usp=sharing) - Piotr Paweska, 2024
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiroldelossantos/)
 [![Website](https://img.shields.io/badge/rol.codes-000000?logo=googlechrome&logoColor=white)](https://rol.codes)
