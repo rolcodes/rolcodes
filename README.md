@@ -24,7 +24,7 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
 | **Timora – Automated Payroll App** | Workforce and payroll app for field teams: geofenced auto clock-in/out, biometric login, mock-location detection and forced updates. | [App Store](https://apps.apple.com/ph/app/timora-automated-payroll-app/id6749219661) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timora) |
 | **OneJAF – HR & Payroll** | Employee HR and payroll self-service app. | [App Store](https://apps.apple.com/ph/app/onejaf-hr-payroll/id6742869605) · [Google Play](https://play.google.com/store/apps/details?id=com.jirolds.onejaf) |
 
-## 🧰 Skills & Technologies
+## Skills & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32" height="32" alt="Flutter" title="Flutter" />
@@ -64,7 +64,7 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
   <img src="https://cdn.simpleicons.org/cursor/000000/ffffff" width="32" height="32" alt="Cursor" title="Cursor" />
 </p>
 
-## 📜 Certifications & Training
+## Certifications & Training
 
 - **Leadership and Professional Development Program** - The American Chamber of Commerce of the Philippines (AmCham), Mar 2026
   *Strategic Thinking & Planning for Supervisors and Managers: From Day-to-Day Execution to Future-Ready Leadership*
