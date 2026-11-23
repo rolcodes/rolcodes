@@ -16,6 +16,8 @@ I care about offline-first reliability, clean feature-first architecture (Clean 
 
 I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-first and international engineering teams.
 
+## 🧰 Skills & Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" />
