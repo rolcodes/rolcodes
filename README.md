@@ -2,7 +2,7 @@
 
 ### Lead Mobile Engineer • Backend Engineer • AI Full-Stack Developer
 
-I'm a Lead Mobile Engineer and backend developer with **3 years of production experience** building cross-platform apps for iOS and Android and the APIs behind them, based in Makati, Philippines. I lead mobile development at **JAF Digital**, where I own the architecture, delivery and release of the **Timora** workforce and HRIS platform, from the Flutter apps through to the Laravel APIs they run on.
+I'm a Lead Mobile Engineer and backend developer with **3 years of production experience** building cross-platform apps for iOS and Android and the APIs behind them, based in Makati, Philippines. I've shipped **3 production apps on both the App Store and Google Play** across **25+ versioned releases**. I lead mobile development at **JAF Digital**, where I own the architecture, delivery and release of the **Timora** workforce and HRIS platform, from the Flutter apps through to the Laravel APIs they run on.
 
 **What I do**
 
@@ -16,28 +16,15 @@ I care about offline-first reliability, clean feature-first architecture (Clean 
 
 I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-first and international engineering teams.
 
-## 🧰 Skills & Technologies
+## 🚀 Shipped
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor" />
-</p>
+| App | What it is | Get it |
+| --- | --- | --- |
+| **Timora – HR & Payroll System** | HR, attendance and payroll app for SMEs: offline-first GPS and photo attendance, leave and request approvals, payslips, an HRIS module and the *Timi* AI assistant. | [App Store](https://apps.apple.com/ph/app/timora-hr-payroll-system/id6791944409) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timorasme) |
+| **Timora – Automated Payroll App** | Workforce and payroll app for field teams: geofenced auto clock-in/out, biometric login, mock-location detection and forced updates. | [App Store](https://apps.apple.com/ph/app/timora-automated-payroll-app/id6749219661) · [Google Play](https://play.google.com/store/apps/details?id=com.jafdigital.timora) |
+| **OneJAF – HR & Payroll** | Employee HR and payroll self-service app. | [App Store](https://apps.apple.com/ph/app/onejaf-hr-payroll/id6742869605) · [Google Play](https://play.google.com/store/apps/details?id=com.jirolds.onejaf) |
+
+## 🧰 Skills & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32" height="32" alt="Flutter" title="Flutter" />
@@ -77,13 +64,13 @@ I'm open to **Lead Mobile, Backend or Full-Stack Engineer** roles with remote-fi
   <img src="https://cdn.simpleicons.org/cursor/000000/ffffff" width="32" height="32" alt="Cursor" title="Cursor" />
 </p>
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
-- [Flutter & Dart - The Complete Guide 2023](https://drive.google.com/file/d/19BpaiWWE-yqk22lgj8bA-1_MP519-e2n/view?usp=sharing) - Academind, 2023
-- [The Complete Flutter Development Bootcamp with Dart](https://drive.google.com/file/d/18M07I7fI4qQ9-iBjpPZR56FNr3fVWNf0/view?usp=sharing) - Google Flutter Team, 2024
+- **Leadership and Professional Development Program** - The American Chamber of Commerce of the Philippines (AmCham), Mar 2026
+  *Strategic Thinking & Planning for Supervisors and Managers: From Day-to-Day Execution to Future-Ready Leadership*
 - [Flutter & Dart - SOLID Principles and Top Design Patterns](https://drive.google.com/file/d/1TKU64R3KW8GCMsMwuOh0YmXy8BfeMHsQ/view?usp=sharing) - Piotr Paweska, 2024
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiroldelossantos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiroldelossantos/)
 [![Website](https://img.shields.io/badge/rol.codes-000000?logo=googlechrome&logoColor=white)](https://rol.codes)
